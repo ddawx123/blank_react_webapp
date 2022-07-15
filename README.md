@@ -1,10 +1,16 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Due to Windows 7 can't compatible with NodeJS 13.14+, and create-react-app command line tool must be run in NodeJS 14.x+. This repository is a solution for this issue.
 
 ## Available Scripts
 
-In the project directory, you can run:
+After clone this repository, you should run:
+
+### `npm install`
+
+## Available Scripts
+
+In the project directory, you can run: (After dependency installation)
 
 ### `npm start`
 
